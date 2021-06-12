@@ -9,7 +9,7 @@ document.write("Hola mi nombre es " + nombre + " y mi edad es "+ edad);*/
 
 
 //2
-/*const numero1 = prompt("Digita el primer número");
+const numero1 = prompt("Digita el primer número");
 const numero2 = prompt("Digita el segundo número");
 const numero3 = prompt("Digita el tercer número");
 
@@ -27,6 +27,6 @@ resultado4 = resultado1 + resultado2 + resultado3;
 
 
 document.write("La suma de sus cubos es "+ resultado4);
-*/
+
 
 //3
